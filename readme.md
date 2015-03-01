@@ -12,6 +12,8 @@ min-bench
 [david-image]: http://img.shields.io/david/chunpu/min-bench.svg?style=flat-square
 [david-url]: https://david-dm.org/chunpu/min-bench
 
+[![Test coverage][coveralls-image]][coveralls-url]
+[![Gittip][gittip-image]][gittip-url]
 
 simple benchmark for javascript code
 
@@ -49,5 +51,9 @@ License
 
 [travis-image]: https://img.shields.io/travis/chunpu/min-bench.svg?style=flat-square
 [travis-url]: https://travis-ci.org/chunpu/min-bench
+[coveralls-image]: https://img.shields.io/coveralls/chunpu/min-bench/gh-pages.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/chunpu/min-bench
+[gittip-image]: https://img.shields.io/gittip/chunpu.svg?style=flat-square
+[gittip-url]: https://www.gittip.com/chunpu/
 [license-image]: http://img.shields.io/npm/l/min-bench.svg?style=flat-square
 [license-url]: #

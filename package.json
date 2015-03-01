@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm run cov",
-    "readme": "pretty-readme > readme.md",
+    "readme": "pretty-readme coveralls gittip > readme.md",
     "cov": "istanbul cover node_modules/mocha/bin/_mocha -- --reporter dot --check-leaks test"
   },
   "repository": {
