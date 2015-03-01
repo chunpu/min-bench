@@ -11,3 +11,10 @@ describe('get speed', function() {
 		assert(duration < 0.001)
 	})
 })
+
+describe('pretty ms', function() {
+	it('should pretty ms', function() {
+		var str = b.prettyMS('0.02')
+		assert.equal(str, '20 µs')
+	})
+})

@@ -1,7 +1,7 @@
 {
   "name": "min-bench",
-  "version": "1.0.1",
-  "description": "simple benchmark for javascript code",
+  "version": "1.1.0",
+  "description": "Simple Benchmark for Javascript Code",
   "main": "index.js",
   "scripts": {
     "test": "npm run cov",

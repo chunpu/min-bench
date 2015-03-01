@@ -15,7 +15,7 @@ min-bench
 [![Test coverage][coveralls-image]][coveralls-url]
 [![Gittip][gittip-image]][gittip-url]
 
-simple benchmark for javascript code
+Simple Benchmark for Javascript Code
 
 Installation
 ---
@@ -42,7 +42,16 @@ b('code in with', function(n) {
 //	code in with	645.59 ns/op
 ```
 
-see more in [demo.js](demo.js)
+`min-bench` always make your code run more than 1 second
+
+Output the duration of running the code one time
+
+- s second
+- ms = 0.001 s
+- µs = 0.001 ms
+- ns = 0.000001 ms
+
+See more benchmark in [demo.js](demo.js)
 
 License
 ---

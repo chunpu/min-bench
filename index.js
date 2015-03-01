@@ -3,8 +3,9 @@ module.exports = exports = run
 var max = 1000
 var min = 2
 
-run.run = run
-run.getSpeed = getSpeed
+exports.run = run
+exports.getSpeed = getSpeed
+exports.prettyMS = prettyMS
 
 function run(name, fn) {
 	var speed = getSpeed(fn)
