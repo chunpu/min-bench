@@ -1,6 +1,7 @@
 min-bench
 ===
 
+[![Build status][travis-image]][travis-url]
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][downloads-url]
 [![Dependency Status][david-image]][david-url]
@@ -46,5 +47,7 @@ License
 
 [![License][license-image]][license-url]
 
+[travis-image]: https://img.shields.io/travis/chunpu/min-bench.svg?style=flat-square
+[travis-url]: https://travis-ci.org/chunpu/min-bench
 [license-image]: http://img.shields.io/npm/l/min-bench.svg?style=flat-square
 [license-url]: #
